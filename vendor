@@ -1,0 +1,7 @@
+cd /path/to/your/repository
+touch XI_UKL_LARAVEL_DAFFABUNYA.txt
+echo "Hello, GitHub!" > XI_UKL_LARAVEL_DAFFABUNYA.txt
+git add XI_UKL_LARAVEL_DAFFABUNYA.txt
+git add .
+git commit -m "Added XI_UKL_LARAVEL_DAFFABUNYA.txt"
+git push origin main
